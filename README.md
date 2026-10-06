@@ -1,0 +1,2 @@
+# premium-dulcimer-build-001-dulcimer-building-fret-space
+Struggling with fret spacing calculations that never quite add up? The Dulcimer Building &amp; Fret Space Craft Workshop is your digital workshop bench — eliminating guesswork and organizing every step from raw wood to perfect intonation.  This Notion template transforms your chaotic build notes into a structured system. It automates fret space math, t
